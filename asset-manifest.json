@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tap-room/static/css/main.3bc1b44c.chunk.css",
+    "main.js": "/tap-room/static/js/main.58ef9a7c.chunk.js",
+    "main.js.map": "/tap-room/static/js/main.58ef9a7c.chunk.js.map",
+    "runtime-main.js": "/tap-room/static/js/runtime-main.4d80be93.js",
+    "runtime-main.js.map": "/tap-room/static/js/runtime-main.4d80be93.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/tap-room/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.373f0d97.chunk.js": "/tap-room/static/js/2.373f0d97.chunk.js",
+    "static/js/2.373f0d97.chunk.js.map": "/tap-room/static/js/2.373f0d97.chunk.js.map",
+    "static/js/3.12e77309.chunk.js": "/tap-room/static/js/3.12e77309.chunk.js",
+    "static/js/3.12e77309.chunk.js.map": "/tap-room/static/js/3.12e77309.chunk.js.map",
+    "index.html": "/tap-room/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/tap-room/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.3bc1b44c.chunk.css.map": "/tap-room/static/css/main.3bc1b44c.chunk.css.map",
+    "static/js/2.373f0d97.chunk.js.LICENSE.txt": "/tap-room/static/js/2.373f0d97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d80be93.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.373f0d97.chunk.js",
+    "static/css/main.3bc1b44c.chunk.css",
+    "static/js/main.58ef9a7c.chunk.js"
+  ]
+}
